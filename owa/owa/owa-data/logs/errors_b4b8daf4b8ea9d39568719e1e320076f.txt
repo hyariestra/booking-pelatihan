@@ -1,0 +1,38 @@
+23:22:34 2018-03-05 8336 [debug_log] Starting installation of module: base 
+23:22:35 2018-03-05 8336 [debug_log] owa_request Table Created. 
+23:22:35 2018-03-05 8336 [debug_log] owa_session Table Created. 
+23:22:36 2018-03-05 8336 [debug_log] owa_document Table Created. 
+23:22:37 2018-03-05 8336 [debug_log] owa_feed_request Table Created. 
+23:22:38 2018-03-05 8336 [debug_log] owa_click Table Created. 
+23:22:38 2018-03-05 8336 [debug_log] owa_ua Table Created. 
+23:22:39 2018-03-05 8336 [debug_log] owa_referer Table Created. 
+23:22:39 2018-03-05 8336 [debug_log] owa_site Table Created. 
+23:22:39 2018-03-05 8336 [debug_log] owa_visitor Table Created. 
+23:22:40 2018-03-05 8336 [debug_log] owa_host Table Created. 
+23:22:40 2018-03-05 8336 [debug_log] owa_exit Table Created. 
+23:22:40 2018-03-05 8336 [debug_log] owa_os Table Created. 
+23:22:41 2018-03-05 8336 [debug_log] owa_impression Table Created. 
+23:22:41 2018-03-05 8336 [debug_log] owa_configuration Table Created. 
+23:22:41 2018-03-05 8336 [debug_log] owa_user Table Created. 
+23:22:42 2018-03-05 8336 [debug_log] owa_domstream Table Created. 
+23:22:42 2018-03-05 8336 [debug_log] owa_action_fact Table Created. 
+23:22:42 2018-03-05 8336 [debug_log] owa_search_term_dim Table Created. 
+23:22:43 2018-03-05 8336 [debug_log] owa_ad_dim Table Created. 
+23:22:43 2018-03-05 8336 [debug_log] owa_source_dim Table Created. 
+23:22:43 2018-03-05 8336 [debug_log] owa_campaign_dim Table Created. 
+23:22:44 2018-03-05 8336 [debug_log] owa_location_dim Table Created. 
+23:22:44 2018-03-05 8336 [debug_log] owa_commerce_transaction_fact Table Created. 
+23:22:45 2018-03-05 8336 [debug_log] owa_commerce_line_item_fact Table Created. 
+23:22:45 2018-03-05 8336 [debug_log] owa_queue_item Table Created. 
+23:22:45 2018-03-05 8336 [debug_log] owa_site_user Table Created. 
+23:22:45 2018-03-05 8336 [debug_log] Post install proceadure was a success. 
+23:22:45 2018-03-05 8336 [debug_log] Module base activated 
+23:22:45 2018-03-05 8336 [debug_log] Installation complete. 
+23:22:45 2018-03-05 8336 [debug_log] Checking for existence of default site. 
+23:22:45 2018-03-05 8336 [debug_log] Created default site. 
+23:22:45 2018-03-05 8336 [debug_log] Install Complete Flag added to configuration 
+23:32:19 2018-03-05 7280 [debug_log] no rss content found at: http://www.openwebanalytics.com/?feed=rss2 
+00:39:36 2018-03-06 7280 [debug_log] no rss content found at: http://www.openwebanalytics.com/?feed=rss2 
+00:40:23 2018-03-06 7280 [debug_log] no rss content found at: http://www.openwebanalytics.com/?feed=rss2 
+00:43:22 2018-03-06 7280 [debug_log] no rss content found at: http://www.openwebanalytics.com/?feed=rss2 
+00:43:35 2018-03-06 7280 [debug_log] no rss content found at: http://www.openwebanalytics.com/?feed=rss2 
